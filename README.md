@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm João Samuel Pereira Duarte 👋
 
-<!--
-**samuelduarte-dev/samuelduarte-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student passionate about backend and frontend development, always improving my skills through practical projects.
 
-Here are some ideas to get you started:
+## Technologies
+Java • Spring Boot • SQL • PostgreSQL • Git • GitHub • HTML • CSS • JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals
+Build real projects, grow as a full-stack developer, and start my career in IT.
+
+## Contact
+- LinkedIn: www.linkedin.com/in/joaosamuelpereiraduarte
+- Email: joaosamuelpereiraduarte@gmail.com
