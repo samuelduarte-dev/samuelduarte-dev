@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm João Samuel Duarte 👋</h1>
+<h1 align="center">Hi, I'm João Samuel Pereira Duarte 👋</h1>
 
 <p align="center">
   Software Engineering student passionate about technology, backend and frontend development,
