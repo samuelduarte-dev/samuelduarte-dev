@@ -1,13 +1,18 @@
-# Hi, I'm João Samuel Pereira Duarte 👋
+<h1 align="center">Hi, I'm João Samuel Duarte 👋</h1>
 
-Software Engineering student passionate about backend and frontend development, always improving my skills through practical projects.
+<p align="center">
+  Software Engineering student passionate about technology, backend and frontend development,
+  always focused on learning, building projects, and growing in the IT field.
+</p>
 
-## Technologies
-Java • Spring Boot • SQL • PostgreSQL • Git • GitHub • HTML • CSS • JavaScript
+<p align="center">
+  <strong>Java • Spring Boot • SQL • PostgreSQL • HTML • CSS • JavaScript • Git • GitHub</strong>
+</p>
 
-## Goals
-Build real projects, grow as a full-stack developer, and start my career in IT.
+---
 
-## Contact
-- LinkedIn: www.linkedin.com/in/joaosamuelpereiraduarte
-- Email: joaosamuelpereiraduarte@gmail.com
+### About Me
+- Software Engineering student
+- Focused on full-stack development
+- Building practical projects to strengthen my skills
+- Looking for an opportunity to start my career in IT
